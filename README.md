@@ -1,4 +1,4 @@
-ELNY Tecnologia
+#ELNY Tecnologia
 
 A ELNY Tecnologia desenvolve experiências e soluções digitais para empresas que querem construir uma presença profissional na internet.
 
