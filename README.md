@@ -1,13 +1,12 @@
 ELNY Tecnologia
-Tecnologia que faz sua empresa evoluir.
 
 A ELNY Tecnologia desenvolve experiências e soluções digitais para empresas que querem construir uma presença profissional na internet.
 
 Começamos com criação e manutenção de sites, com uma visão de longo prazo voltada para soluções web cada vez mais completas.
 
-🚀 O que fazemos
+🚀 O que fazemos?
 
-🌐 Criação de sites
+🌐 Criação de sites:
 Sites modernos, responsivos e personalizados para empresas e profissionais.
 
 🔧 Manutenção e evolução
